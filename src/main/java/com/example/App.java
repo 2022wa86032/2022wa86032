@@ -3,7 +3,8 @@ package com.example;
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("Hello from Maven!");
-        System.out.println("Jenkins Continuous Integration Demo");
+        System.out.println("Hello from Jenkins CI!");
+        System.out.println("Continuous Integration Build Successful");
+
     }
 }
